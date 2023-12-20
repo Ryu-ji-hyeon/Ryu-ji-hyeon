@@ -4,12 +4,12 @@ Badges https://github.com/Ileriayo/markdown-badges
 Icons  https://gist.github.com/rxaviers/7360908
  -->
 
-<h1 align="center">KYW🐾</h1>
+<h1 align="center">Ji-Hyeon🐾</h1>
 
 <!-- LANGUAGES Widget -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudvndwlgus@naver.com&exclude_repo=github-readme-stats&hide=ANTLR,Jasmin&langs_count=6&layout=compact&hide_border=true&theme=gruvbox_light) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudvndwlgus&exclude_repo=github-readme-stats&hide=ANTLR,Jasmin&langs_count=6&layout=compact&hide_border=true&theme=gruvbox_light) -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dudvndwlgus@naver.com&theme=gruvbox_light&hide_border=true&count_private=true&show_icons=false&custom_title=GitHub%20Stats😊"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dudvndwlgus&theme=gruvbox_light&hide_border=true&count_private=true&show_icons=false&custom_title=GitHub%20Stats😊"/>
 
 <h2>💻 Working with</h2>
 <img align="left" src="https://img.shields.io/badge/MS%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"><img align="left" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"><img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"><img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
